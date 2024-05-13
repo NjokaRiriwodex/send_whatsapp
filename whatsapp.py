@@ -4,11 +4,11 @@ import pywhatkit
 phone_numer = ''
 group_id = ''
 message = 'Write the message here'
-time_hour = 14
-time_minute = 50
-waiting_time_to_send = 15
+time_hour = 16
+time_minute = 00
+waiting_time_to_send = 10
 close_tab = True
-waiting_time_to_close = 2
+waiting_time_to_close = 20
 
 mode = "contact"
 
